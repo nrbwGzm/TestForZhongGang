@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb516eeb-a0a1-4df3-8bf1-94cf2615f7cf" name="Default Changelist" comment="第一次clone后修改代码再push">
+      <change beforePath="$PROJECT_DIR$/git/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/git/src/main/java/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eXyaVJGRK5414DmXN4eHRKf3qm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb516eeb-a0a1-4df3-8bf1-94cf2615f7cf" name="Default Changelist" comment="" />
+      <created>1594482295997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594482295997</updated>
+      <workItem from="1594482297326" duration="1731000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次clone后修改代码再push">
+      <created>1594482427625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594482427625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次clone后修改代码再push">
+      <created>1594483810378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594483810378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次clone后修改代码再push" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次clone后修改代码再push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="218" key="#Notifications" timestamp="1594483363104">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="218" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1594483363104" />
+    <state x="518" y="279" key="CommitChangelistDialog2" timestamp="1594484036741">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="518" y="279" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1594484036741" />
+    <state x="230" y="96" key="MergeDialog" timestamp="1594484162254">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="230" y="96" key="MergeDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1594484162254" />
+    <state x="1075" y="276" key="MultipleFileMergeDialog" timestamp="1594484162268">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1075" y="276" key="MultipleFileMergeDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1594484162268" />
+    <state x="617" y="292" key="Vcs.Push.Dialog.v2" timestamp="1594484046432">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="292" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1594484046432" />
+    <state x="820" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594483420991">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="820" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1594483420991" />
+    <state x="689" y="358" key="git4idea.merge.GitPullDialog" timestamp="1594483387429">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="689" y="358" key="git4idea.merge.GitPullDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1594483387429" />
+    <state x="682" y="421" key="git4idea.ui.GitUnstashDialog" timestamp="1594483757655">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="682" y="421" key="git4idea.ui.GitUnstashDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1594483757655" />
+  </component>
+</project>
