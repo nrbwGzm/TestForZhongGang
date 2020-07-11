@@ -3,5 +3,6 @@ public class test {
         System.out.println("第一次提交代码");
         System.out.println("第二次提交代码");
         System.out.println("第一次修改代码");
+        System.out.println("第一次clone后修改代码再push");
     }
 }
