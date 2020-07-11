@@ -7,6 +7,7 @@ public class test {
         System.out.println("第一次clone后修改代码再push");
         System.out.println("云端修改1");
         System.out.println("本地同步云端修改后再push");
+        System.out.println("本地分支代码2");
 
     }
 }
